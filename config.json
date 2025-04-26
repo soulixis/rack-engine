@@ -1,0 +1,18 @@
+
+{
+  "ig_username": "prod.soulixis",
+  "ig_password": "yourpassword",
+  "target_accounts": [
+    "@onetraptsoul",
+    "@beatsbynxmercy",
+    "@vvsxel",
+    "@haakekid"
+  ],
+  "dm_template": "Sup [name], saw your recent release clean work fr.
+I’ve been building a few tracks in that same lane.
+You open to collabs? Got some heat you might mess with.",
+  "daily_limit": 50,
+  "delay_seconds": 120,
+  "email_report_to": "linksoulixis@gmail.com",
+  "google_sheet_id": "YOUR-GOOGLE-SHEET-ID-HERE"
+}

@@ -1,0 +1,6 @@
+
+instaloader
+selenium
+gspread
+oauth2client
+smtplib
